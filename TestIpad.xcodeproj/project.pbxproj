@@ -56,9 +56,9 @@
 		0DDA16D120510138002F8FC2 /* TestIpad */ = {
 			isa = PBXGroup;
 			children = (
+				0DDA16D620510138002F8FC2 /* Main.storyboard */,
 				0DDA16D220510138002F8FC2 /* AppDelegate.swift */,
 				0DDA16D420510138002F8FC2 /* ViewController.swift */,
-				0DDA16D620510138002F8FC2 /* Main.storyboard */,
 				0DDA16DC20510138002F8FC2 /* Assets.xcassets */,
 				0DDA16DE20510138002F8FC2 /* LaunchScreen.storyboard */,
 				0DDA16E120510138002F8FC2 /* Info.plist */,
